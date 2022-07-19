@@ -4,3 +4,6 @@ dist
 
 # env
 .env
+
+# folder for text files from screenshots
+public
